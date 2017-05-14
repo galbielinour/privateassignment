@@ -8,7 +8,7 @@
  4717/1436.070<br> 
  Angkatan 24<br>
  SMK Telkom Malang<br>
- Alamat API : https://www.themoviedb.org/documentation/api
+ Alamat API : https://www.themoviedb.org/documentation/api<br>
  Jenis Navigasi : Navigation Drawer
 ### Library dari Local Database yang digunakan pada Aplikasi (sebutkan SQLite dasar jika tidak menggunakan library)
 ### Deskripsi singkat dari aplikasi minimal 200 karakter<br>
