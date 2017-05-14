@@ -17,10 +17,11 @@ Aplikasi untuk mobile yang dapat digunakan untuk melihat film film rate terbanya
 Membantu untuk melihat data aktual film yang akan tayang, rate terbanyak, dan sedang tayang.
 ### Library lain yang digunakan (jika ada, opsional)
 ### Screenshoot 
-![whatsapp image 2017-05-14 at 15 49 35 3](https://cloud.githubusercontent.com/assets/21336880/26032434/ffddfa2a-38bd-11e7-8f76-31c9d221cc60.jpeg)
-![whatsapp image 2017-05-14 at 15 49 35 4](https://cloud.githubusercontent.com/assets/21336880/26032435/000cc166-38be-11e7-9486-94ee1b01e9cb.jpeg)
-![whatsapp image 2017-05-14 at 15 49 35 5](https://cloud.githubusercontent.com/assets/21336880/26032436/0011f5be-38be-11e7-98b7-8d0a0e41824f.jpeg)
-![whatsapp image 2017-05-14 at 15 49 35](https://cloud.githubusercontent.com/assets/21336880/26032438/0015bd16-38be-11e7-88db-e3c7e73052ba.jpeg)
-![whatsapp image 2017-05-14 at 15 49 35 1](https://cloud.githubusercontent.com/assets/21336880/26032437/0014a8ea-38be-11e7-867f-1d74069cbe71.jpeg)
-![whatsapp image 2017-05-14 at 15 49 35 2](https://cloud.githubusercontent.com/assets/21336880/26032439/001c8948-38be-11e7-9aa5-7d2deb41e8c3.jpeg)
+![y3](https://cloud.githubusercontent.com/assets/21336880/26032481/22922630-38bf-11e7-8cd2-20adfce82f28.jpg)
+![y4](https://cloud.githubusercontent.com/assets/21336880/26032477/2270a064-38bf-11e7-881f-454718a731c0.jpg)
+![y5](https://cloud.githubusercontent.com/assets/21336880/26032478/2275a5fa-38bf-11e7-862e-9235f45e0a96.jpg)
+![y6](https://cloud.githubusercontent.com/assets/21336880/26032479/22778df2-38bf-11e7-8584-769cbeb279c3.jpg)
+![y](https://cloud.githubusercontent.com/assets/21336880/26032480/2279036c-38bf-11e7-9584-28166ed3b56b.jpg)
+![y2](https://cloud.githubusercontent.com/assets/21336880/26032482/229f148a-38bf-11e7-835d-91038982618c.jpg)
+
 
