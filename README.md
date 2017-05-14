@@ -3,13 +3,13 @@
 # Movie Time
 ### Link File APK release dari Aplikasi (pastikan dapat diakses oleh siapa pun tanpa perlu login apapun)<br>
 ## Identitas Siswa :
-### Galbie Elinour
-### XIRPL5/12
-### 4717/1436.070 
-### Angkatan 24
-### SMK Telkom Malang
-### Alamat API : https://www.themoviedb.org/documentation/api
-### Jenis Navigasi : Navigation Drawer
+ Galbie Elinour<br>
+ XIRPL5/12<br>
+ 4717/1436.070<br> 
+ Angkatan 24<br>
+ SMK Telkom Malang<br>
+ Alamat API : https://www.themoviedb.org/documentation/api
+ Jenis Navigasi : Navigation Drawer
 ### Library dari Local Database yang digunakan pada Aplikasi (sebutkan SQLite dasar jika tidak menggunakan library)
 ### Deskripsi singkat dari aplikasi minimal 200 karakter<br>
 Aplikasi untuk mobile yang dapat digunakan untuk melihat film film rate terbanyak, akan datang, dan yang sedang tayang. Data yang ditampilkan aplikasi ini valid dan terbaru menurut perhitungan karena database langsung dari web yang terpercaya.
