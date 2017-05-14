@@ -1,7 +1,7 @@
 
 
 # Movie Time
-### Link File APK release dari Aplikasi (pastikan dapat diakses oleh siapa pun tanpa perlu login apapun)<br>
+### Link File APK release https://drive.google.com/drive/folders/0B947zMPi9X0aSzdwcWhqY09WVG8?usp=sharing<br>
 ## Identitas Siswa :
  Galbie Elinour<br>
  XIRPL5/12<br>
